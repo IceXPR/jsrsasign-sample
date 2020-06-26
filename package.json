@@ -4,7 +4,7 @@
   "description": "Sample code on how to use thejsrsasign library",
   "main": "app.js",
   "dependencies": {
-    "jsrsasign": "^8.0.12"
+    "jsrsasign": "^8.0.19"
   },
   "devDependencies": {
     "eslint": "^5.16.0"
